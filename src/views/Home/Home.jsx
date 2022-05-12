@@ -1,8 +1,8 @@
+import { useState } from 'react';
+import './Home.css'
+
 function home () {
-    <div>
-        <input type="descricao"
-        placeholder="descricao" />
-    </div>
+   
 }
 
 export default home;
